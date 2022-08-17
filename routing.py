@@ -21,6 +21,7 @@ def hi(name):
     print(name)
     return f"Hi {name}" 
 
+#Lisa is cool and Zack too!
 # Create one url pattern and function that can handle the following 
 # examples (HINT: int() will come in handy! For example int("35") returns 35):
 
